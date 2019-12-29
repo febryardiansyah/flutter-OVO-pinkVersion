@@ -1,6 +1,6 @@
-# flutter_app4
+# flutter_app_OVO's UI
 
-A new Flutter application.
+This project is just a UI of OVO (the one of popular startup in Indonesia) in pink version. lmao
 
 ## Getting Started
 
